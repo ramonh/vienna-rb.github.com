@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[User group for Viennese rubyists]]></title>
+  <link href="http://vienna-rb.at/atom.xml" rel="self"/>
+  <link href="http://vienna-rb.at/"/>
+  <updated>2015-12-17T11:41:09+01:00</updated>
+  <id>http://vienna-rb.at/</id>
+  <author>
+    <name><![CDATA[vienna.rb team]]></name>
+    <email><![CDATA[viennarb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/12/16/picks/"/>
+    <updated>2015-12-16T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/12/16/picks</id>
+    <content type="html"><![CDATA[<h3>12/16 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.italyonrails.com/">Italy on Rails</a> - A code-journey through Italy; you can apply by email to participate for two weeks in April/May.</li>
+<li><a href="http://adventofcode.com/">Advent of Code</a> - Small and self-contained programming puzzled to count your way to Christmas!</li>
+<li><a href="https://www.coursera.org/specializations/ruby-on-rails">Coursera</a> - Coursera now has a Ruby On Rails Specialization from Johns Hopkins University.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=EWdqtMdcNkE">The Adventures of printf: A Short Story</a> - Fred Herbet takes us on a journey of a little guy named printf, who&rsquo;s in search of mentoring as a programmer &mdash; and the greater meaning of why we code.</li>
+<li><a href="https://medium.com/@chadfowler/when-to-not-be-a-software-craftsman-2bb5b4c8afef#.eq8rxhb9d">When to not be a software craftsman</a> - Programming is often talked about as either art or a craft. But Chad Fowler argues that sometimes, it&rsquo;s neither &mdash; and that&rsquo;s ok.</li>
+<li><a href="https://newrepublic.com/article/124425/dreamed-perfect-database">I Dreamed of a Perfect Database</a> - Paul Ford thinks about databases, and how we order information can reshape our world.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/12/09/picks/"/>
+    <updated>2015-12-09T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/12/09/picks</id>
+    <content type="html"><![CDATA[<h3>12/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://medium.com/@nishabatra/the-life-changing-magic-of-tidying-up-with-web-components-bc6b8af8d25#.z1qd858qf">The life-changing magic of tidying up</a> - .. with web components</li>
+<li><a href="https://medium.com/@isisAnchalee/so-you-want-to-learn-how-to-code-7d9211231bcf#.t4u68yaqz">So you want to learn how to code</a> - <a href="http://www.twitter.com/isisAnchalee">Isis Anchalee</a>, the person behind the #ILookLikeAnEngineer hashtag, put together a great article with a huge list of resources for people looking to learn how to code, from web development to algorithms.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://www.infoq.com/news/2015/12/to-the-moon">To the Moon: Parallels Between Space Missions and Developing Software</a> - Russ Olsen (of <a href="http://www.amazon.de/gp/product/0321584104/">Eloquent Ruby</a> and <a href="http://www.amazon.de/gp/product/0321490452/">Design Patterns in Ruby</a> fame) presented the keynote at GOTO Berlin 2015. InfoQ interviewed him about it.</li>
+<li><a href="http://www.vertabelo.com/blog/technical-articles/7-common-database-design-errors">7 common database design errors</a> - Demonstrated using real-life examples.</li>
+<li><a href="http://www.linusakesson.net/programming/tty/index.php">The TTY demystified</a> - Did you know that the fancy terminal you&rsquo;re using for your command line can trace its lineage back to a stock ticker device first released in 1869? And it&rsquo;s still emulating a video terminal from the 1970s?</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/12/02/picks/"/>
+    <updated>2015-12-02T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/12/02/picks</id>
+    <content type="html"><![CDATA[<h3>12/02 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/nanoc/nanoc">Nanoc</a> - Yet Another Static Site Generator written in Ruby. Because we can!</li>
+<li><a href="https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.3fbeza4cs">What Open Source project should I contribute to?</a> - A good, solid post to help you through making your first contribution, complete with a list of resources</li>
+<li><a href="http://flexboxfroggy.com/">Flexbox Froggy</a> - If you&rsquo;ve been hiding under a rock (or a lilypad) this week, you probably haven&rsquo;t seen flexbox froggy: THE game to help you learn CSS flexbox!</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://www.facebook.com/notes/kent-beck/john-carmacks-deep-thoughts-ideas-work-and-emotion/1051813558184841?mc_cid=e33e7c5af4&amp;mc_eid=4d9b492ff8">John Carmack’s Deep Thoughts: Ideas, Work, and Emotion</a> - John Carmack has done some amzing things over the years. In a talk at facebook, he laid out how he does it.</li>
+<li><a href="http://mjtsai.com/blog/2015/11/24/pushing-to-the-git-working-copy-on-a-web-server/">Pushing to the Git Working Copy on a Web Server</a> - Sometimes, you&rsquo;d just like to push to a Git repo, and have your changes magically appear in the server&rsquo;s working directory. This shows you how to do that.</li>
+<li><a href="http://blog.nordeus.com/dev-ops/postgresql-locking-revealed.htm">PostgreSQL Locking Revealed</a> - Postgres can handle a lot of concurrent reads and writes, but sometimes you&rsquo;ll run into deadlocks. This guide shows you what operation requires what kind of lock, and how compatible they are among each other.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/11/25/picks/"/>
+    <updated>2015-11-25T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/11/25/picks</id>
+    <content type="html"><![CDATA[<h3>11/25 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/chr15m/gitnonymous">gitnonymous</a> - Contribute pseudonymously to Git repositories over Tor</li>
+<li><a href="http://lucaguidi.com/2015/10/27/effective-tdd-with-ruby-vim-setup.html">Effective TDD with Ruby: vim setup</a> - Another instalment of Luca Guidi&rsquo;s series about TDD – this time with tips on building your own vim setup</li>
+<li><a href="">Kumquat</a> - Render RMarkdown files inside Rails</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/shakacode/react_on_rails/">React on Rails</a> - React on Rails integrates Facebook&rsquo;s React front-end framework with Rails. And it&rsquo;s interesting stuff.</li>
+<li><a href="https://dev.firmafon.dk/blog/quick-no-hack-emoji-support-with-mysql-rails/">emoji support with MySQL &amp; Rails</a> -  If you’re a MySQL user with a charset of utf8, you’ve probably noticed your database isn’t as excited about native emoji as your users are. There&rsquo;s a one-liner to change that though.</li>
+<li><a href="http://www.babycenter.com/404_my-child-bites-should-i-bite-him-back_69171.bc">My life right now</a> - We will meet again.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="https://thomascannon.me/posts/brick-laying-and-bug-reports/">Brick laying and bug reports</a> - Thomas Cannon explains how to improve your bug fixing process.</li>
+<li><a href="https://queue.acm.org/detail.cfm?id=2745385">There is No Now</a> - We humans might have a concept of &ldquo;now&rdquo;, but there is no such thing when it comes to distributed systems.</li>
+<li><a href="http://www.catehuston.com/blog/2015/11/18/a-question/">Do You Know What a Good Environment Looks Like, Though?</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/11/18/picks/"/>
+    <updated>2015-11-18T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/11/18/picks</id>
+    <content type="html"><![CDATA[<h3>11/18 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://blog.honeybadger.io/ruby-self-cheat-sheet/">Understanding self in Ruby</a> - A nice little Ruby <code>self</code> cheat sheet ;)</li>
+<li><a href="https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f">Why is it so hard to find a Front-End developer</a> - I couldn&rsquo;t agree more: &ldquo;Front end development, like any specialized trade or spectator sport, is a lot harder than it looks.&rdquo;</li>
+<li><a href="http://blog.thoughtram.io/git/rebase-book/2015/02/10/understanding-branches-in-git.html">Understanding branches in Git</a> - From a series about understanding Git on the thoughtram blog.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeship.com/an-inside-look-laura-frank-senior-engineer-at-codeship/">An inside look with Laura Frank</a> - Laura shares on the Codeship blog why she feels a responsibility to speak about tech, why she’s a huge advocate for Docker, and why technologists have an obligation to society.</li>
+<li><a href="https://devchat.tv/ruby-rogues/233-rr-onboarding-new-employees">new to the team</a> - The Ruby Rogues discuss onboarding new team members.</li>
+<li><a href="http://www.devfest.at/speakers/">DevFest 2015</a> - No plans for this weekend yet? Good. You can still register for the free and fun DevFest, with a remarkably interesting line-up this year.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://prog21.dadgum.com/212.html">What can you put in a refrigerator?</a> - Seems like an easy question, doesn&rsquo;t it?</li>
+<li><a href="http://pgeoghegan.blogspot.com/2015/11/suggesting-corrected-column.html">Suggesting a corrected column name/spelling in the event of a column misspelling</a> - When you mistype a column name in <code>psql</code>, PostgreSQL 9.6 will be able to suggest the correct name for you.</li>
+<li><a href="https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html">Why is Swift&rsquo;s String API So Hard?</a> - You might think of strings in programming languages as a fairly simple thing, but they really aren&rsquo;t. Mike Ash describes why the Swift String API is the way it is, which can also teach you a lot about how other languages approach the same topic.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/bindrive">Benjamin</a></h5>
+
+<ul>
+<li><a href="http://engineering.appfolio.com/appfolio-engineering/2015/11/18/ruby-3x3">Ruby 3 will be 3 times faster</a> - Matz' goal with Ruby 3 is to be 3 times faster than Ruby 2, and the way to reach that goal is corporate sponsorship, says Appfolio and hires/sponsors a full-time engineer to work with the Ruby core team on the performance of Ruby.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/11/10/picks/"/>
+    <updated>2015-11-10T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/11/10/picks</id>
+    <content type="html"><![CDATA[<h3>11/10 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://designmodo.com/bootstrap-4-grid-system/">Understanding the Bootstrap 4 Grid System</a> - If you do web development, chances are you&rsquo;ve come across Bootstrap. This tutorial takes a look at the grid system in the upcoming version!</li>
+<li><a href="https://github.com/muan/bingo-board">Bingo board</a> - Yet another awesome project by <a href="https://github.com/muan">Mu-An</a>: play bingo by sending in pull requests!</li>
+<li><a href="https://github.com/naholyr/github-todos">github-todos</a> - A Git hook to convert your TODOs into GitHub issues.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://stanthecoder.me/some-tips-for-contributing-open-source-projects/">Contribute</a> - Tips for contributing Open Source Projects for beginners, from a beginner.</li>
+<li><a href="http://pullrequestday.com/">Pull Request Day</a> -  One million pull requests in one day. Take the pledge and join International Pull Request Day, February 27th.</li>
+<li><a href="http://nymag.com/thecut/2015/02/marie-kondo-room-purge.html#">kondo</a> - inspired by last week of throwing out all the things I&rsquo;ve adopted the religion of tidying up. Maybe one can also &lsquo;kondo&rsquo; their code base.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://mkremins.github.io/blog/doors-headaches-intellectual-need/">Locked doors, headaches, and intellectual need</a> - On problem-solution ordering issues, functional programming, and teaching new concepts.</li>
+<li><a href="http://cacm.acm.org/magazines/2011/5/107699-the-one-second-war/fulltext">The One-Second War</a> - Everyone knows about leap days, but did you know we also have leap seconds? And that they can cause a lot of havoc?</li>
+<li><a href="http://www.sitepoint.com/graph-algorithms-ruby/">Graph Algorithms in Ruby</a> - Every once in a while, you have to deal with a graph, especially if you touch something related to social networks. This article introduces you to the basic algorithms for dealing with graphs, and their implementation in Ruby.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/11/03/picks/"/>
+    <updated>2015-11-03T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/11/03/picks</id>
+    <content type="html"><![CDATA[<h3>11/03 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://blog.railsrumble.com/2015/10/26/registration-has-opened/">Rails Rumble 2015</a> - Registration for the Rails Rumble 2015 opened a couple of days ago. Sign up now!</li>
+<li><a href="http://www.sitepoint.com/how-to-solve-coding-anti-patterns-for-ruby-rookies/">How to solve coding anti-patterns for Ruby rookies</a> - A look at the typical patterns that can be found in beginners' code</li>
+<li><a href="http://hinecsoft.com/codepoems/">Codepoems</a> - An experimental IDE for <a href="http://www.processing.org">Processing</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://una.im/CSSgram/">CSSgram</a> - A library for editing your images with Instagram-like filters directly in CSS. Interesting? Yes. Useful? Maybe.</li>
+<li><a href="">GitHub on-demand training</a> - Start learning and teaching Git and GitHub today with their self-paced training module.</li>
+<li><a href="https://rubyissues.ongoodbits.com/2015/11/01/8">There are RubyIssues. Again.</a> - Contribute to this month&rsquo;s curated open source construction areas in Ruby.</li>
+<li><a href="https://github.com/jedld/pretentious">The Pretentious Gem</a> - Very much not recommended but still funny: write your code first and then generate tests later.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://metalbat.com/feel-good/index.html">Your App Is Good And You Should Feel Good</a> - Design process, emotions, criticism, and psychology. And how all of that fits together.</li>
+<li><a href="https://thomascannon.me/posts/why-i-care-about-customer-support/">“Why should I care about customer support?”</a> - Caring about your users as a developer means caring about customer support.</li>
+<li><a href="http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html">The Dynamic Def</a> - What happens when you define a method inside another method in Ruby? Jamis Buck has the answer, and a surprisingly useful use case.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://jekyllrb.com/news">Jekyll 3.0 Release - What&rsquo;s News</a> - Congrats to Parker Moore and team; Jekyll 3.0 - static site builder - now includes a new Liquid template profiler, unified posts and collections, hooks and much more</li>
+<li><a href="https://www.youtube.com/watch?v=sPZK8w55cBQ">Video - Jekyll 3.0 Talk, Q&amp;A and Live Release by Parker Moore</a> - YouTube video (20 mins) of last week&rsquo;s Jekyll 3.0 talk by Parker Moore in San Francisco, California</li>
+<li><a href="https://github.com/jekyll/jekyll-assets">Jekyll 3 Assets</a> - Congrats to Jordon Bedwell for updating the asset pipeline for use with the latest and greatest Jekyll version</li>
+<li><a href="http://viennahtml.github.io">Vienna.html</a> - Vienna Static Site User Group; 1st Meetup on Tue Nov/24th @ sektor5 (Siebenbrunnengasse 44, Wien 5) - Join Us - Free - No Database Required ;-)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/10/28/picks/"/>
+    <updated>2015-10-28T14:00:00+01:00</updated>
+    <id>http://vienna-rb.at/blog/2015/10/28/picks</id>
+    <content type="html"><![CDATA[<h3>10/28 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-thirtieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://blog.railsbridge.org/2015/10/19/join-the-railsbridge-fundraising-team/">Join the RailsBridge fundraising team</a> - RailsBridge are looking for members to join their team. Apply by November 15th!</li>
+<li><a href="http://lucaguidi.com/2015/10/20/effective-tdd-with-ruby-time-and-flow.html">Effective TDD with Ruby: Time and Flow</a> - Lotus creator <a href="https://twitter.com/jodosha">Luca Guidi</a> is putting together an article series about TDD. First up is time management!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://realtimeweekly.co/realtime-quiz-app-with-ror-reactjs-and-pubnub">PubNub</a> - Building a realtime quiz with Ruby on Rails, ReactJS &amp; PubNub.</li>
+<li><a href="http://dev.mensfeld.pl/2015/10/euruko-2015-review-conference-in-a-nutshell/">EuRuKo 2015 Review</a> - As I couldn&rsquo;t make it to EuRuKo all I have to go on is your stories, and this great summary.</li>
+<li><a href="http://kryptonlabs.com/blog/2015/10/25/whats-new-in-rails-5/">Rails 5</a> - An elaborate summary of what&rsquo;s new in Rails 5.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/">Dark corners of Unicode</a> - A meditation on the hidden depths of Unicode.</li>
+<li><a href="http://blog.phil-opp.com">Writing an OS in Rust</a> - Philipp Oppermann is building an OS in Rust, and you can follow along on his blog.</li>
+<li><a href="http://www.sitepoint.com/speed-up-with-materialized-views-on-postgresql-and-rails/">Speed up with Materialized Views on PostgreSQL and Rails</a> - How you can use PostgreSQL&rsquo;s materialized views to speed up your app without having to maintain extra tables.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/10/21/picks/"/>
+    <updated>2015-10-21T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/10/21/picks</id>
+    <content type="html"><![CDATA[<h3>10/21 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-ninth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://railsremoteconf.com/">Rails Remote Conf</a> - Because remote confs are a thing now.</li>
+<li><a href="https://en.wikipedia.org/wiki/Esoteric_programming_language">Esoteric programming languages</a> - A fun little list</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://devchat.tv/ruby-rogues/230-rr-hiring-diversely-with-sarah-mei">hiring diversely</a> - The RubyRogues discuss hiring diversely with Sarah Mei.</li>
+<li><a href="http://inhabitat.com/nyc/lowline-lab-inside-the-beginnings-of-nycs-first-underground-park/lowline-lab-underground-park/">Low Line</a> - There is an alternative to New York&rsquo;s famous High Line, the in-development Low Line. The underground park is found on the lower east side of Manhattan. And it just looks crazy beautiful.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeship.com/debugging-a-memory-leak-on-heroku/">Debugging a Memory Leak on Heroku</a> - Richard Schneems shows how to debug memory leaks in your Rails app. Obviously, this also works for Rails apps not hosted on Heroku ;)</li>
+<li><a href="http://www.mikeperham.com/2015/09/24/storing-data-with-redis/">Storing Data with Redis</a> - Mike Perham on the bad habit of stuffing all your data into one Redis database.</li>
+<li><a href="https://robots.thoughtbot.com/building-learning-into-our-process-with-prototypes">Building Learning into our Process with Prototypes</a> - Kyle Fiedler on the importance of prototypes, especially when they fail.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/10/14/picks/"/>
+    <updated>2015-10-14T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/10/14/picks</id>
+    <content type="html"><![CDATA[<h3>10/14 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-eighth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/glasnt/octohat">Octohat</a> - Hang your non-code contributions on your hat rack</li>
+<li><a href="http://photonkit.com/">Photon</a> - Build Electron apps using simple HTML and CSS</li>
+<li><a href="https://helloanselm.com/2015/using-webfonts-in-2015/">Using webfonts in 2015</a> - A pretty good write-up</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://xkcd.com/simplewriter/">Simple Writer</a> - Pretty sure Laura shared this already at one point in time BUT this XKCD&rsquo;s little app highlights difficult words in your copy. Running your beginners guide through this service is&hellip; enlightening.</li>
+<li><a href="https://www.codecademy.com/blog/1761">Codecademy Summer of Code</a> - Because interesting: Codecademy sat down with their Summer of Code Challenge winner, Ethan Chiu.</li>
+<li><a href="railsgirlssummerofcode.org/blog/">Rails Girls Summer of Code wrap-up</a> - very much enjoying the wrap-up posts on the Rails Girls Summer of Code blog.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://www.quirkey.com/blog/2015/06/15/ruby-performance-a-visual-guide/">Ruby Performance, a Visual Guide</a> - Everyone loves fast code, and this handy post details what tools Ruby offers for each part of your apps stack.</li>
+<li><a href="http://githubengineering.com/runnable-documentation/">Runnable Documentation: Code for Humans</a> - GitHub tries to optimize for as little documentation as possible, and packing as much into the code as they can get away with.</li>
+<li><a href="http://blog.lerner.co.il/in-postgresql-as-in-life-dont-wait-too-long-to-commit/">In PostgreSQL, as in life, don’t wait too long to commit</a> - It&rsquo;s an easy thing to overlook, but keep your transactions as short as possible.</li>
+</ul>
+
+
+<h5><a href="https://www.twitter.com/phillipp">Phillipp</a>:</h5>
+
+<ul>
+<li><a href="http://mailyherald.org/">maily_herald</a> - Self-hosted Mailchimp alternative. Good alternative after the EUGH decision on Safe Harbour.</li>
+<li><a href="https://www.youtube.com/watch?v=Y-FMTPsgy_Y">Conversions @ Google - Luke Wroblewski (Part 1)</a> - Not super fresh, but you see a lot what he talks about in your daily life (and you won&rsquo;t like it, after you watched the videos)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/10/07/picks/"/>
+    <updated>2015-10-07T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/10/07/picks</id>
+    <content type="html"><![CDATA[<h3>10/07 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-seventh edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://hugogiraudel.com/2015/08/13/github-as-a-workflow/">GitHub as a workflow</a> - An interesting look at agile pull requests.</li>
+<li><a href="http://rob.conery.io/2015/10/06/how-to-learn-a-new-programming-language-while-maintaining-your-day-job-and-still-being-there-for-your-family/">How to learn a new programming language</a> - .. while maintaining your day job and still being there for your family</li>
+<li><a href="http://railsgirlssummerofcode.org/blog/2015-10-01-the-end-and-a-beginning/">The End and a Beginning</a> - Rails Girls Summer of Code 2015 is over. A look at all the awesome people who made it happen.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/lostisland/faraday">Faraday Gem</a> - Faraday is an HTTP libarary wrapper and middleware suite that makes it easy to build clients to external services. I have been using it a lot lately and I am really liking it.</li>
+<li><a href="https://github.com/solnic/virtus">Virtus Gem</a> - Virtus gives you a way to create application domain objects that support some cool stuff like type coersion. It is a great partner with Faraday if your work requires a lot of interfacing with outside services.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://codepen.io/rachel_web/pen/VveQPW">Brian Griffin in pure CSS</a> - Because amazing.</li>
+<li><a href="https://twitter.com/arrrrcamp/status/649951204353671168">arrrrcamp hug</a> - Because nostalgic.</li>
+<li><a href="http://www.rossconf.io/blog/2015-10/rossconf-berlin/">ROSSConf recap</a> - Because I had a minute.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://kunststube.net/encoding/">What every programmer absolutely, positively needs to know about encodings and character sets to work with text</a> - Every developer has to deal with text. Knowing what encodings are exactly and how they work will save you a lot of pain and headaches.</li>
+<li><a href="http://www.vertabelo.com/blog/notes-from-the-lab/9-tips-for-better-database-design">9 tips for better database design</a> - Thinking about your data model beforehand will save you time, stress, and tears later down the line, and these tips will help you make better decisions.</li>
+<li><a href="http://www.mikeperham.com/2015/09/24/storing-data-with-redis/">Storing Data with Redis</a> - You wouldn&rsquo;t stuff all your data into one single table. Why are you doing it when you&rsquo;re using Redis, then, asks Mike Perham.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/09/30/picks/"/>
+    <updated>2015-09-30T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/09/30/picks</id>
+    <content type="html"><![CDATA[<h3>09/30 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-sixth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.erikaheidi.com/blog/the-real-benefits-of-engaging-in-open-source">The real benefits of engaging in Open Source</a> - We&rsquo;ve said this before, and we&rsquo;ll say it again..</li>
+<li><a href="https://github.com/blog/2067-hacktoberfest-contribute-to-open-source-in-october">Hacktoberfest</a> - Yes - it&rsquo;s a thing.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/dabrorius/jobless">jobless</a> - DSL written in Ruby for generating CVs. It generates HTML files, which can be easily converted to PDF format.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a>:</h5>
+
+<ul>
+<li><a href="http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/">How Security Flaws Work: The Buffer Overflow</a> - If you ever wanted to know how Buffer Overflows actually work, this is an in-depth and detailed explanation.</li>
+<li><a href="https://cloudonaut.io/your-single-aws-account-is-a-serious-risk/">Your Single AWS Account is a Serious Risk</a> - If you use AWS, you should make sure you&rsquo;re not running everything with your &lsquo;root&rsquo; account.</li>
+<li><a href="http://sockpuppet.org/blog/2015/08/21/be-coachable/">Be Coachable</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/09/23/picks/"/>
+    <updated>2015-09-23T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/09/23/picks</id>
+    <content type="html"><![CDATA[<h3>09/23 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-fifth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://scotch.io/tutorials/getting-started-with-vim-an-interactive-guide">Getting Started with Vim</a> - An interactive guide</li>
+<li><a href="http://foundation.travis-ci.org/">Travis Foundation</a> - The Travis Foundation website got a major redesign!</li>
+<li><a href="http://2015.arrrrcamp.be/blog/2015/09/23/arrrrcamp-2015-diversity-program/">ArrrrCamp&rsquo;s Diversity program</a> - ArrrrCamp is offering 12 free, diversity tickets. Go go go!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.meetup.com/vienna-rb/events/225443046/">Europe Code Week</a> - We are looking for coaches (and attendees) for our Europe Code Week - Ruby on Rails for Absolute Beginners Mini Workshop. Do Join!</li>
+<li><a href="http://www.oscon.com/open-source-eu-2015/">OSCON Amsterdam 2015</a> - I&rsquo;ll be talking about rejoining the Tech workforce after a baby-break. But there will be other (better) talks as well.</li>
+<li><a href="http://www.theplatform.net/2015/09/10/airbnb-shares-the-keys-to-its-infrastructure">behind Airbnb</a> - Airbnb shares the keys to its infrastructure. And it&rsquo;s interesting.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/09/16/picks/"/>
+    <updated>2015-09-16T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/09/16/picks</id>
+    <content type="html"><![CDATA[<h3>09/16 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-fourth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://homeconfconf.com/">Home Conf</a> - I don&rsquo;t know what it is but it&rsquo;s created by tenderlove – so it must be good</li>
+<li><a href="http://matt.might.net/articles/implementing-a-programming-language/">7 lines of code, 3 minutes</a> - Implement a programming language from scratch</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://events.codeweek.eu/search/?country_code=AT&amp;past=no">Europe Code Week</a> - October 10 - 18th it&rsquo;s Europe Code Week again. sektor5 provides free space and coffees for all Code Week events, so ping me if you&rsquo;d like to organize something!</li>
+<li><a href="http://www.rossconf.io/blog/">ROSSConf interviews</a> - We have put some time into interviewing the ROSSConf Berlin maintainer-speakers. Find out what Zachary&rsquo;s life hack entails.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/09/09/picks/"/>
+    <updated>2015-09-09T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/09/09/picks</id>
+    <content type="html"><![CDATA[<h3>09/09 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-third edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://www.rubymotion.com/news/2015/09/03/announcing-rubymotion-4-0-free-cross-platform-games-watchos-2-0.html">RubyMotion 4.0</a> - The new RubyMotion is out, complete with a FREE Starter edition. &lt;3</li>
+<li><a href="http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/">Bootstrap 4 alpha</a> - It&rsquo;s here.</li>
+<li><a href="https://stripe.com/blog/open-source-retreat-2016">Stripe Open Source Retreat 2016</a> - You can apply until September 30th for this!</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/maccman/monocle">Monocle Source</a> - If you want to see a pretty nice way to set up a modular Sinatra app, check out the source code for Monocle. I use this style in all of my Sinatra services.</li>
+<li><a href="https://github.com/gloomyson/StarCraft">Starcraft HTML5</a> - An implementation of Starcraft written as an HTML5 app. Pretty sweet dude.</li>
+<li><a href="https://github.com/black-screen/black-screen">Black Screen</a> - A terminal emulator written in javascript. The feature set is pretty nice and it&rsquo;s beautiful! But alas, there are still too many bugs for me to drop zsh.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://wirsing.us9.list-manage1.com/subscribe?u=7d6811387a9637d0a71605d23&amp;id=9489db6694">Refugee Hackathon</a> - Aaron set up a mailing list for Refugee Hackathon (where we built software solutions for refugees) at the most recent vienna.rb meetup.</li>
+<li><a href="http://www.codebycodes.com/blog/2015/08/31/creating-a-simeple-twitter-bot-with-ruby/">Twitter Bot</a> - Create a simple Twitter Bot with Ruby.</li>
+<li><a href="http://www.meetup.com/vienna-rb/events/225097350/">October meetup</a> - Technically there&rsquo;s no date yet, but it will be awesome as ever.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/09/02/picks/"/>
+    <updated>2015-09-02T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/09/02/picks</id>
+    <content type="html"><![CDATA[<h3>09/02 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-second edition:</p>
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/DavidHuie/quartz">Interface with Go code from Ruby</a> - quartz is a gem that lets you talk with native Go code from Ruby. It&rsquo;s like FFI for Go.</li>
+<li><a href="https://devchat.tv/ruby-rogues/222-rr-rails-5-with-sean-griffin">Ruby Rogues talk about Rails 5</a> - We will be discussing Rails 5 next meetup and here&rsquo;s a great intro.</li>
+<li><a href="http://rubyrouges.com/">Ruby Rouges</a> - When you accidentally type rubyrouges.com, here&rsquo;s what you get.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="https://www.codecademy.com/courses/learn-the-command-line">Learn the command line</a> - Codecademy has a new CL course, highly recommended for anyone starting out. Share the news!</li>
+<li><a href="https://github.com/m1foley/fit-commit">Fit Commit</a> - A Git hook to validate your commit messages, based largely on Tim Pope&rsquo;s authoritative guide.</li>
+<li><a href="https://18f.gsa.gov/2015/08/31/how-playing-with-legos-taught-executives-agile/">Lean executives</a> - For years, the Small Business Administration (SBA), along with the rest of the federal government, have used the waterfall product development methodology. Until now / LEGO. Fun read.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/sportkit/mu-mauritius">sport.db League Quick Starter Sample</a> - Mauritius Premier League - Create Your Own Repo/League(s) from Scratch</li>
+<li><a href="http://openfootball.github.io/2015/08/25/new-season-english-premier-league.html">football.db - New 2015/16 Seasons</a> -  English Premier League, Österr. Bundesliga, Italian Serie A, And More</li>
+<li><a href="https://www.reddit.com/r/ruby/comments/3j70do/upcoming_ruby_conferences_september_2015_edition/">Upcoming Ruby Conferences - September 2015 Edition</a> - via $ rubyconf (incl. in whatson gem)</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/08/26/picks/"/>
+    <updated>2015-08-26T11:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/08/26/picks</id>
+    <content type="html"><![CDATA[<h3>08/26 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twenty-first edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/TomAnthony/itermocil">iTermocil</a> - set up pre-configured layouts of windows and panes in iTerm2, without tmux.</li>
+<li><a href="https://github.com/lislis/sara-vs-coffee">Sara vs. Coffee</a> - A caffeinated game made with the gosu gem</li>
+<li><a href="http://zedshaw.com/2015/06/16/early-vs-beginning-coders/">Early vs. Beginner Coders</a> - An article about the differences between complete beginners and early coders, by Zed Shaw</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://thenewstack.io/gitlab-opens-entire-development-process-reflecting-demand-for-trust-authenticity/">Gitlab goes public</a> - GitLab has opened up their entire development process. Interesting read.</li>
+<li><a href="http://www.rossconf.io/event/berlin/">ROSSConf Berlin</a> - With a confirmed line-up and 20 more tickets to go, you might want to reserve your seat. Like now.</li>
+<li><a href="http://arrrrcamp.be/">arrrrcamp discount code</a> - We&rsquo;re all economizing. Get 20% off your arrrrcamp ticket using &lsquo;RUG2015&rsquo;.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/mrhydescripts/mrhyde">mrh/mrhyde</a> - Static Site Quick Starter Script Wizard - New Jekyll Command Line Tool - Automate, Automate, Automate</li>
+<li><a href="https://github.com/viennahtml/members">New Vienna.html Members Directory</a> - Join Us / Add Yourself (Free; No Database Required - Just Some YAML ;-)</li>
+<li><a href="http://jekyllthemes.io">Jekyll Themes &amp; Templates</a> - New (Alternative) Static Site Themes &amp; Templates Directory by Tyler Cubell incl. 100+ Free and Premium ($$$) Themes</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/08/19/picks/"/>
+    <updated>2015-08-19T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/08/19/picks</id>
+    <content type="html"><![CDATA[<h3>08/19 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-twentieth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://blog.railsrumble.com/2015/08/11/announcing-rails-rumble-2015/">Announcing Rails Rumble 2015</a> - Yep, Rails Rumble is back!</li>
+<li><a href="http://nikolay.rocks/2015-06-16-building-streetfighter">Building Street Fighter II in Ruby</a> - I mean who doesn&rsquo;t love Street Fighter?!</li>
+<li><a href="http://muan.co/2015/05/12/first-pull-request/">My First Pull Request</a> - A nice article by <a href="https://twitter.com/muanchiou">Mu-An</a></li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeship.com/category/inside-interviews/">Inside Interviews</a> - Codeship recently started an amazing interview series with CEO / CTO / Senior Engineers from Tech companies we know and love. Well worth checking out.</li>
+<li><a href="http://media.eurucamp.org/">eurucamp 2015 online</a> - The talk recordings from this year&rsquo;s eurucamp are online, just in time for the weekend.</li>
+<li><a href="https://www.codecademy.com/blog/160-codecademy-partners-with-the-white-house">Codecademy for president</a> - Crazy cool, as part of the White House #TechHire initiative Codecademy partners with the Obama administration, focusing on helping underrepresented and diverse groups of citizens get the skills they need to find jobs through code.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/drjekyllthemes/drjekyll">drj/drjekyll</a> - The missing static site theme package manager .:. new jekyll command line tool</li>
+<li><a href="https://github.com/inukshuk/jekyll-scholar">jekyll-scholar</a> - Jekyll extensions for the blogging scholar / academic by Sylvester Keil from - surprise, surprise - Vienna; manage your citations and bibliographies etc.</li>
+<li><a href="http://meetup.com/StaticBerlin">Static Berlin</a> - Berlin goes static; Berlin&rsquo;s new static site user group; very first meetup upcoming</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/08/12/picks/"/>
+    <updated>2015-08-12T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/08/12/picks</id>
+    <content type="html"><![CDATA[<h3>08/12 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-nineteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="http://confreaks.tv/events/jrubyconf2015">JRuby Conf EU</a> - All videos of JRuby Conf EU are already online!</li>
+<li><a href="https://github.com/substack/regex-adventure">Regex Adventure</a> - Learn regular expressions with this educational workshop.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://skillcrush.com/2015/07/30/simple-tricks-to-get-people-to-respond-to-your-emails/">Life saver Skillcrush</a> - 9 tricks to get people to respond to your emails.</li>
+<li><a href="http://blog.honeybadger.io/how-rails-fancy-exception-page-works/">fancy error pages</a> - We Rails-ists tend to take them for granted but our error pages are really quite great. Read all about how they work - if you&rsquo;re into that kind of thing.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/planetjekyll/jekyll-starter-theme">Planet Jekyll&rsquo;s Starter Theme (Minimial, V2)</a> - Ready-to-Fork Static Starter Site(s) for Jekyll</li>
+<li><a href="http://writekit.github.io">HTML <-> Markdown Quick Reference (Cheat Sheet)</a> - Markup Hypertext in Easy-to-Write and Easy-to-Read Angle Bracket-Free Plain Old Text</li>
+<li><a href="http://drjekyllthemes.github.io/jekyll-book-theme">World Classic - Dr Jekyll and Mr Hyde</a> - by Robert Louis Stevenson; Summer Beach Reading Novella; First Published in London in 1886(!) - Still Popular (E-Book Built w/ Jekyll ;-))</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/nuclearsquid">Markus</a></h5>
+
+<ul>
+<li><a href="http://devblog.avdi.org/2015/08/11/what-its-like-to-come-back-to-a-ruby-project-after-6-months/">What it’s like to come back to a Ruby project after 6 months</a> - Sadly, not available as a Ruby Tapas episode ;)</li>
+<li><a href="http://www.bleonard.com/blog/2015/08/01/teaching-css/">Teaching CSS</a> - On the perils of teaching CSS</li>
+<li><a href="https://deardesignstudent.com/what-s-the-worst-professional-advice-you-ever-got-b28c35b19995">What’s the worst professional advice you ever got?</a> - Written for designers, but just as applicable for us devs</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Picks / What the vienna.rb Team Thinks Is Worth Sharing This Week]]></title>
+    <link href="http://vienna-rb.at/blog/2015/08/05/picks/"/>
+    <updated>2015-08-05T14:00:00+02:00</updated>
+    <id>http://vienna-rb.at/blog/2015/08/05/picks</id>
+    <content type="html"><![CDATA[<h3>08/05 Picks!</h3>
+
+<p>In a series on this website we&rsquo;ll entertain YOU with our picks - or: what we think is worth sharing - every week.
+Books, articles, gems, fun stuff&hellip; you&rsquo;re in for an eclectic mix! So, here&rsquo;s for the one-hundred-eighteenth edition:</p>
+
+<h5><a href="http://www.twitter.com/alicetragedy">Laura</a>:</h5>
+
+<ul>
+<li><a href="https://github.com/fkchang/opal-irb">Opal IRB</a> - Interactive Ruby for Opal (an interactive console in the browser for testing your code interactively)</li>
+<li><a href="https://github.com/evilmuan/ci">Continuous integration demo</a> - A tutorial/playground for people who want to get into the CI world</li>
+<li><a href="https://medium.com/@rubyandbugs/rails-girls-summer-of-code-hackership-the-benefits-challenges-of-being-part-of-2-programs-at-fab267941568">The benefits &amp; challenges of being part of 2 programs at the same time</a> - One of the RGSoC teams has written about their setup to get focused and work together, as a team, successfully.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/mraaroncruz">Aaron</a>:</h5>
+
+<ul>
+<li><a href="http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/">5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service</a> - If you are looking for a faster, more structured, language agnostic way to push data across the wire in your hipsterific webservice layer, you might want to have a look at protocol buffers</li>
+<li><a href="http://www.grpc.io/">GRPC</a> - general Remote Procedure Call is a language agnostic serialization framework that uses Protocol Buffers behind the scenes</li>
+<li><a href="https://github.com/grpc/grpc-common">grpc-common</a> - Here is a grpc repo with implementations in different languages to help you get started.</li>
+</ul>
+
+
+<h5><a href="http://www.twitter.com/floordrees">Floor</a>:</h5>
+
+<ul>
+<li><a href="http://www.rossconf.io/event/berlin.html">ROSSConf Berlin</a> - It&rsquo;s really happening. Pair on Ruby, Bundler and Ruby Object Mapper, amongst other projects September 26th.</li>
+<li><a href="https://www.codecademy.com/blog/158-html-css-projects-are-up-on-codecademy">HTML &amp; CSS resources</a> - Cousins / siblings / friends / loved ones that want to get into code? Codecademy just added great projects to their Web Fundamentals track.</li>
+<li><a href="https://twitter.com/search?vertical=default&amp;q=%23ILookLikeAnEngineer&amp;src=typd">#ILookLikeAnEngineer</a> - Can&rsquo;t. Stop. Scrolling. Very inspirational.</li>
+</ul>
+
+
+<h5><a href="https://twitter.com/viennahtml">Gerald</a>:</h5>
+
+<ul>
+<li><a href="http://planetjekyll.github.io/showcase">Planet Jekyll&rsquo;s Showcase</a> - The World&rsquo;s Greatest Static Sites</li>
+<li><a href="http://drjekyllthemes.github.io">Dr. Jekyll&rsquo;s Themes</a> - Static Site Theme Directory</li>
+<li><a href="https://github.com/planetjekyll/quickrefs/blob/master/FAQ.md">Jekyll Frequently Asked Questions (F.A.Q.s) and Answers</a></li>
+<li><a href="https://github.com/planetjekyll/quickrefs/blob/master/YAML.md">Jekyll Quickref Series - YAML for Datafiles &lsquo;n&rsquo; Collections</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
